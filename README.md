@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @imfrim2
-- 👀 I’m interested in product management
-- 🌱 I’m currently learning AI and latest GitHub updates, since I've been using Bitbucket the last 2 years
-- 💞️ I’m looking to collaborate on finding new full time Product Management roles building products that have positive impact
+- 👋 I’m Ira F.
+- 👀 I’m a Product Management leader
+- 🌱 I’m currently learning AI and exploring latest GitHub updates, since I've been using Bitbucket the last 2 years at my last organization
+- 💞️ I’m looking to find new full time Product Management roles building products and leading teams that have positive impact
 - 📫 How to reach me: imfrim@gmail.com
 - ⚡ LinkedIn: https://www.linkedin.com/in/irafrimere
 
 <!---
-imfrim2/imfrim2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+imfrim2/imfrim2 is a demo repository where I will be trying out a variety of GitHub apps and 3rd party integrations.
 --->
