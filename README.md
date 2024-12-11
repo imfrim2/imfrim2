@@ -1,7 +1,7 @@
 - 👋 I’m Ira F.
 - 👀 I’m a Product Management leader
-- 🌱 I’m currently learning AI and exploring latest GitHub updates, since I've been using Bitbucket the last 2 years at my last organization
-- 💞️ I’m looking to find new full time Product Management roles building products and leading teams that have positive impact
+- 🌱 I’m currently upskilling with a variety of AI tools and also exploring GitHub's most recent updates, as I've been using Bitbucket the last few years
+- 💞️ I’m looking to find new full time Product Management roles building products and leading teams that have positive impact with their solutions
 - 📫 How to reach me: imfrim@gmail.com
 - ⚡ LinkedIn: https://www.linkedin.com/in/irafrimere
 
